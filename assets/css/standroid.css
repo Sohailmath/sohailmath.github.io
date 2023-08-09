@@ -52,7 +52,9 @@ h4 {
 .page-heading {
   margin-top:0;
 }
-
+.resume-title{
+  font-weight: bold;
+}
 #header {
   background-color: #F8F7F2;
   border-bottom: 1px solid #E9E6DF;
